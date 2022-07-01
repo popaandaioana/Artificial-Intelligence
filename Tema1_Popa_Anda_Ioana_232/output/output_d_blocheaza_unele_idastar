@@ -1,0 +1,147 @@
+########################################
+#                 IDA*                 #
+########################################
+#          Euristica: banala           #
+########################################
+1)
+@ i o z q
+w b r i >
+i ^ # r u
+p a s q c
+Activare dreptator cu 1 pasi
+2)
+@ i o z q
+b r i w >
+i ^ # r u
+p a s q c
+Activare invartitor stanga
+3)
+@ r o z q
+i b i w >
+i ^ # r u
+p a s q c
+Activare dreptator cu 1 pasi
+4)
+@ r o z q
+b i w i >
+i ^ # r u
+p a s q c
+Activare interschimbator stanga-sus_dreapta-jos
+5)
+@ r o z q
+b q w i >
+i ^ # r u
+p a s i c
+Activare interschimbator dreapta-sus_stanga-jos
+6)
+@ r o z q
+b q w a >
+i ^ # r u
+p i s i c
+
+
+Lungime drum: 5
+Cost drum: 9
+Timp gasire solutie: 1367ms
+Nr noduri maxim existente in memorie: 81
+Nr total noduri calculate: 44768
+
+------------
+########################################
+#                 IDA*                 #
+########################################
+#       Euristica: admisibila_1        #
+########################################
+1)
+@ i o z q
+w b r i >
+i ^ # r u
+p a s q c
+Activare dreptator cu 1 pasi
+2)
+@ i o z q
+b r i w >
+i ^ # r u
+p a s q c
+Activare invartitor stanga
+3)
+@ r o z q
+i b i w >
+i ^ # r u
+p a s q c
+Activare dreptator cu 1 pasi
+4)
+@ r o z q
+b i w i >
+i ^ # r u
+p a s q c
+Activare interschimbator dreapta-sus_stanga-jos
+5)
+@ r o z q
+b i w a >
+i ^ # r u
+p i s q c
+Activare interschimbator stanga-sus_dreapta-jos
+6)
+@ r o z q
+b q w a >
+i ^ # r u
+p i s i c
+
+
+Lungime drum: 5
+Cost drum: 9.0
+Timp gasire solutie: 3617ms
+Nr noduri maxim existente in memorie: 81
+Nr total noduri calculate: 116386
+
+------------
+########################################
+#                 IDA*                 #
+########################################
+#       Euristica: neadmisibila        #
+########################################
+1)
+@ i o z q
+w b r i >
+i ^ # r u
+p a s q c
+Activare dreptator cu 1 pasi
+2)
+@ i o z q
+b r i w >
+i ^ # r u
+p a s q c
+Activare invartitor stanga
+3)
+@ r o z q
+i b i w >
+i ^ # r u
+p a s q c
+Activare dreptator cu 1 pasi
+4)
+@ r o z q
+b i w i >
+i ^ # r u
+p a s q c
+Activare interschimbator stanga-sus_dreapta-jos
+5)
+@ r o z q
+b q w i >
+i ^ # r u
+p a s i c
+Activare interschimbator dreapta-sus_stanga-jos
+6)
+@ r o z q
+b q w a >
+i ^ # r u
+p i s i c
+
+
+Lungime drum: 5
+Cost drum: 18
+Timp gasire solutie: 1103ms
+Nr noduri maxim existente in memorie: 81
+Nr total noduri calculate: 44768
+
+------------

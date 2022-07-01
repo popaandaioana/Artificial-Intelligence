@@ -1,0 +1,183 @@
+########################################
+#   A* - open/closed, doar sol min     #
+########################################
+#          Euristica: banala           #
+########################################
+1)
+@ i o z q
+w b r i >
+i ^ # r u
+p a s q c
+Activare urcator cu 1 pasi
+2)
+@ a o z q
+w i r i >
+i ^ # r u
+p b s q c
+Activare interschimbator stanga-sus_dreapta-jos
+3)
+@ a o z q
+w q r i >
+i ^ # r u
+p b s i c
+Activare urcator cu 1 pasi
+4)
+@ b o z q
+w a r i >
+i ^ # r u
+p q s i c
+Activare dreptator cu 1 pasi
+5)
+@ b o z q
+a r i w >
+i ^ # r u
+p q s i c
+Activare urcator cu 1 pasi
+6)
+@ q o z q
+a b i w >
+i ^ # r u
+p r s i c
+Activare dreptator cu 1 pasi
+7)
+@ q o z q
+b i w a >
+i ^ # r u
+p r s i c
+Activare urcator cu 1 pasi
+8)
+@ r o z q
+b q w a >
+i ^ # r u
+p i s i c
+
+
+Lungime drum: 7
+Cost drum: 9
+Timp gasire solutie: 2786ms
+Nr noduri maxim existente in memorie: 4397
+Nr total noduri calculate: 13334
+
+------------
+########################################
+#   A* - open/closed, doar sol min     #
+########################################
+#       Euristica: admisibila_1        #
+########################################
+1)
+@ i o z q
+w b r i >
+i ^ # r u
+p a s q c
+Activare urcator cu 1 pasi
+2)
+@ a o z q
+w i r i >
+i ^ # r u
+p b s q c
+Activare interschimbator stanga-sus_dreapta-jos
+3)
+@ a o z q
+w q r i >
+i ^ # r u
+p b s i c
+Activare urcator cu 1 pasi
+4)
+@ b o z q
+w a r i >
+i ^ # r u
+p q s i c
+Activare dreptator cu 1 pasi
+5)
+@ b o z q
+a r i w >
+i ^ # r u
+p q s i c
+Activare urcator cu 1 pasi
+6)
+@ q o z q
+a b i w >
+i ^ # r u
+p r s i c
+Activare dreptator cu 1 pasi
+7)
+@ q o z q
+b i w a >
+i ^ # r u
+p r s i c
+Activare urcator cu 1 pasi
+8)
+@ r o z q
+b q w a >
+i ^ # r u
+p i s i c
+
+
+Lungime drum: 7
+Cost drum: 8.4
+Timp gasire solutie: 1778ms
+Nr noduri maxim existente in memorie: 3243
+Nr total noduri calculate: 9912
+
+------------
+########################################
+#   A* - open/closed, doar sol min     #
+########################################
+#       Euristica: neadmisibila        #
+########################################
+1)
+@ i o z q
+w b r i >
+i ^ # r u
+p a s q c
+Activare urcator cu 1 pasi
+2)
+@ a o z q
+w i r i >
+i ^ # r u
+p b s q c
+Activare interschimbator stanga-sus_dreapta-jos
+3)
+@ a o z q
+w q r i >
+i ^ # r u
+p b s i c
+Activare urcator cu 1 pasi
+4)
+@ b o z q
+w a r i >
+i ^ # r u
+p q s i c
+Activare dreptator cu 1 pasi
+5)
+@ b o z q
+a r i w >
+i ^ # r u
+p q s i c
+Activare urcator cu 1 pasi
+6)
+@ q o z q
+a b i w >
+i ^ # r u
+p r s i c
+Activare dreptator cu 1 pasi
+7)
+@ q o z q
+b i w a >
+i ^ # r u
+p r s i c
+Activare urcator cu 1 pasi
+8)
+@ r o z q
+b q w a >
+i ^ # r u
+p i s i c
+
+
+Lungime drum: 7
+Cost drum: 17
+Timp gasire solutie: 2697ms
+Nr noduri maxim existente in memorie: 4397
+Nr total noduri calculate: 13334
+
+------------

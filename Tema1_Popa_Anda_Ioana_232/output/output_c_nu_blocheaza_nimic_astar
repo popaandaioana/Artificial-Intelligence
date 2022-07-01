@@ -1,0 +1,117 @@
+########################################
+#                   A*                 #
+########################################
+#          Euristica: banala           #
+########################################
+1)
+@ b o z q
+r a s w >
+i ^ # r u
+p i q i c
+Activare interschimbator sus-jos
+2)
+@ b o z q
+r a q w >
+i ^ # r u
+p i s i c
+Activare invartitor dreapta
+3)
+@ r o z q
+a b q w >
+i ^ # r u
+p i s i c
+Activare dreptator cu 1 pasi
+4)
+@ r o z q
+b q w a >
+i ^ # r u
+p i s i c
+
+
+Lungime drum: 3
+Cost drum: 7
+Timp gasire solutie: 1432ms
+Nr noduri maxim existente in memorie: 7799
+Nr total noduri calculate: 8561
+
+------------
+
+----------------
+########################################
+#                   A*                 #
+########################################
+#       Euristica: admisibila_1        #
+########################################
+1)
+@ b o z q
+r a s w >
+i ^ # r u
+p i q i c
+Activare interschimbator sus-jos
+2)
+@ b o z q
+r a q w >
+i ^ # r u
+p i s i c
+Activare invartitor dreapta
+3)
+@ r o z q
+a b q w >
+i ^ # r u
+p i s i c
+Activare dreptator cu 1 pasi
+4)
+@ r o z q
+b q w a >
+i ^ # r u
+p i s i c
+
+
+Lungime drum: 3
+Cost drum: 6.6
+Timp gasire solutie: 3019ms
+Nr noduri maxim existente in memorie: 9361
+Nr total noduri calculate: 10272
+
+------------
+
+----------------
+########################################
+#                   A*                 #
+########################################
+#       Euristica: neadmisibila        #
+########################################
+1)
+@ b o z q
+r a s w >
+i ^ # r u
+p i q i c
+Activare interschimbator sus-jos
+2)
+@ b o z q
+r a q w >
+i ^ # r u
+p i s i c
+Activare invartitor dreapta
+3)
+@ r o z q
+a b q w >
+i ^ # r u
+p i s i c
+Activare dreptator cu 1 pasi
+4)
+@ r o z q
+b q w a >
+i ^ # r u
+p i s i c
+
+
+Lungime drum: 3
+Cost drum: 15
+Timp gasire solutie: 1390ms
+Nr noduri maxim existente in memorie: 7799
+Nr total noduri calculate: 8561
+
+------------
+
+----------------

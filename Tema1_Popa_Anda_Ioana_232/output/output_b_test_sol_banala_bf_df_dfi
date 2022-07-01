@@ -1,0 +1,35 @@
+#######################################
+#         Breadth       First         #
+#######################################
+1)
+@ b o z q
+r a s w >
+i ^ # r u
+p i q i c
+Activare invartitor dreapta
+2)
+@ r o z q
+a b s w >
+i ^ # r u
+p i q i c
+Activare interschimbator sus-jos
+3)
+@ r o z q
+a b q w >
+i ^ # r u
+p i s i c
+Activare dreptator cu 1 pasi
+4)
+@ r o z q
+b q w a >
+i ^ # r u
+p i s i c
+
+
+Lungime drum: 3
+Cost drum: 7
+Timp gasire solutie: 135ms
+Nr noduri maxim existente in memorie: 4103
+Nr total noduri calculate: 4506
+
+------------
